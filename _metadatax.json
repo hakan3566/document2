@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "egoist boy #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "40da3c6ef14a3a5621d62d87ee0900f65ccb4f9a",
+    "edition": 17,
+    "date": 1637869939816,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh mor"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "da83025a89d761529647822429ab624670be5672",
+    "edition": 3,
+    "date": 1637869942015,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "turuncu"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 turkuaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye lacivert"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "11a123d6ce9f43f4c0e1e263e461b126854abdf4",
+    "edition": 31,
+    "date": 1637869944253,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "yesil"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan lila"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh krem"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "a2f39083c2ec5091dffcf9dc666ac7bbb90907d3",
+    "edition": 26,
+    "date": 1637869946456,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "colour"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 yesil"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh mor"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "620da384e9f52a62b2fa52cf28bdc6aa6b71803d",
+    "edition": 16,
+    "date": 1637869948654,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan pembe"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye lacivert"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "8e16b428b98f11a8b42bba85ab6e9fab1426bcb1",
+    "edition": 30,
+    "date": 1637869950812,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "yesil"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kahve"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh kahve"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "cecac6d41af0ffc65f8e445d39b2c3285f63f754",
+    "edition": 20,
+    "date": 1637869953013,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "turuncu"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh mor"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "2304e39ad8caf4e27dd266048876c75300615e5d",
+    "edition": 23,
+    "date": 1637869955230,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh krem"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "8ce897366813c39969aac09175ffa273cb8ed04e",
+    "edition": 33,
+    "date": 1637869957430,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz lacivert"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz siyah"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye kirmizi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "1c7396733c44152c8060ac4dfff35b8731a29e8e",
+    "edition": 40,
+    "date": 1637869959595,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh mor"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "7b059e8c119367df47903c5fed86143e44945e90",
+    "edition": 22,
+    "date": 1637869961802,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 lacivert"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer pembe"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh kahve"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "fe7d1dc5936a1fc0cc4bb3257f7e3ae69872653c",
+    "edition": 4,
+    "date": 1637869964040,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer lila"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye su_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #48",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "95b2210e0650060ff8f380706183c20c371317ac",
+    "edition": 48,
+    "date": 1637869966220,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kahve"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh gul"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "8d002b04f02ede3eef4188f05307e2908995c55e",
+    "edition": 35,
+    "date": 1637869968293,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "colour"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin sari"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan lila"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh beyaz"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #43",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "f498fea9b98c6af0573e981d2b505fc17710d73c",
+    "edition": 43,
+    "date": 1637869970526,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "turuncu"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 krem"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kahve"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan lila"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh mor"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "3677736ccf08adb16360651f203669519c3ff27b",
+    "edition": 10,
+    "date": 1637869972781,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "turuncu"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 turkuaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh kahve"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "f8b3e09d13e40806b406d559e954b927847e006d",
+    "edition": 21,
+    "date": 1637869975042,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye sari_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "94a5e3b6fe8994f4771792d8844289934b84059a",
+    "edition": 7,
+    "date": 1637869977323,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye su_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "d1e298d218143ddce0a44d19d421048c5681ae06",
+    "edition": 27,
+    "date": 1637869979511,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "turuncu"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye bordo_r"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "9b0cb2412c7f95f70d2c97a26f70239ed682bc7f",
+    "edition": 2,
+    "date": 1637869981779,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz siyah"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye kirmizi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "4a546f45a0c1c0cace6b1c5c504144c9db6ea329",
+    "edition": 34,
+    "date": 1637869983975,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye bordo_r"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "40a532e8d0195ccd230c34c302301082fc655518",
+    "edition": 1,
+    "date": 1637869986024,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh beyaz"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "4651fe773f7de568e188aeed016faa633be01e2f",
+    "edition": 15,
+    "date": 1637869988200,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan lacivert"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye bordo_r"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #50",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "f251622fbdc2084ca11d7ecaeac22727be56574c",
+    "edition": 50,
+    "date": 1637869990504,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "turuncu"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz sari"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye su_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #45",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "7694bb02a0f643b33b61cd8b1d1e32d3e5892b71",
+    "edition": 45,
+    "date": 1637869992689,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 lacivert"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz lacivert"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz siyah"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh kahve"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #47",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "e1943b79507ba674a5f1fb73e3a73df0e9119e68",
+    "edition": 47,
+    "date": 1637869994801,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "colour"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 krem"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan lacivert"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh beyaz"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "1b6e42fc184ae07bad0e5354f9c70bfa375aa593",
+    "edition": 38,
+    "date": 1637869997024,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 yesil"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye lacivert"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "f6dc3f372525b514665c46414efdb8d3fc1fb604",
+    "edition": 37,
+    "date": 1637869999287,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "yesil"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 lacivert"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kahve"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz lacivert"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh mor"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "e472b68d67cbb7f71f54128a3ee0bbdd6f6f19f1",
+    "edition": 9,
+    "date": 1637870001481,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer lacivert"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye bordo_r"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "289b78bdd1bd3c5a14eb086f55eee177b1498b03",
+    "edition": 6,
+    "date": 1637870003684,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "yesil"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin sari"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 turkuaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz sari"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye lacivert"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "58d40b8c20c814c29048cd143469d7eda45fdd72",
+    "edition": 8,
+    "date": 1637870005955,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin sari"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 lacivert"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer lacivert"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye su_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "00b374c55391087829f9fe09d5a7b5ea1146c861",
+    "edition": 24,
+    "date": 1637870008124,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh gul"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "39b36d8fcb11976886f2a8284e2b95ce100c5760",
+    "edition": 39,
+    "date": 1637870010395,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer lacivert"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye sari_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #41",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "2f1eb24396423a462a7ea2d310e3f15f840a8f0f",
+    "edition": 41,
+    "date": 1637870012719,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin sari"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz lacivert"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz sari"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye sari_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #42",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "dfeeb0c0abc68ed8f9dd71507ba8f42f75d2583b",
+    "edition": 42,
+    "date": 1637870014927,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kahve"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz lacivert"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh mor"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #44",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "e9ecd9d07f79ab54f2776da33598b384b1376989",
+    "edition": 44,
+    "date": 1637870017230,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin kirmizi"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye sari_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "60932a4402cc9365b35e9b2e5f53b4469639bf7f",
+    "edition": 18,
+    "date": 1637870019440,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye lacivert"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "18c922f40b0171198fff3649e52d10c0fc55713d",
+    "edition": 36,
+    "date": 1637870021876,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 turkuaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan lila"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye sari_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #46",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "0317376c46721163cdcc0ac1fbba8d516d3a044b",
+    "edition": 46,
+    "date": 1637870024099,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 lacivert"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh gul"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "844b9c2f6499740dbc41c04ece1d14c854b68590",
+    "edition": 28,
+    "date": 1637870026247,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "turuncu"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 lacivert"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kahve"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh beyaz"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "9530bf122e19af40cce9982c3520f584a6bb202c",
+    "edition": 19,
+    "date": 1637870028414,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "yesil"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 yesil"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer lila"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye bordo_r"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "3e7dff28a9bdc13491507a3d6b7b149969090af2",
+    "edition": 13,
+    "date": 1637870030672,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "turuncu"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kahve"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz lacivert"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye kirmizi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "c689e0bac73b2c892e8066747102215773fbaa95",
+    "edition": 14,
+    "date": 1637870032886,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kahve"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh kahve"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "02d480ea9febe6e918ca4f68a414566b8a37faf8",
+    "edition": 5,
+    "date": 1637870035098,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz sari"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh mor"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "1057373fa1f1b5d07c63f19c4949be2b375e305d",
+    "edition": 29,
+    "date": 1637870037271,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin yesil"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 turkuaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer lacivert"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye lacivert"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "d046657d54d37e0a8e707c7e50e0c994cc1ce10f",
+    "edition": 32,
+    "date": 1637870039543,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin sari"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer mavi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz sari"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye su_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "ad2b95cf6c95f7a60a52767f764a6ca768010b54",
+    "edition": 12,
+    "date": 1637870041795,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "pembe"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 2 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kahve"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan mavi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye su_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #49",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "5bdde5afa9f36dba0f602279183693182723194c",
+    "edition": 49,
+    "date": 1637870044066,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin pembe"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 4 yesil"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kirmizi"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz siyah"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye su_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "634911bb3f82219c8d9e3cd03801ce15452d2941",
+    "edition": 11,
+    "date": 1637870046332,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "colour"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 1 beyaz"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "top goz kahve"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "tavsan lila"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "sovarye sari_sr"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "egoist boy #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "6d120fcff38cfa6015591aedac6541e924d56e9e",
+    "edition": 25,
+    "date": 1637870048361,
+    "attributes": [
+      {
+        "trait_type": "1 background",
+        "value": "5"
+      },
+      {
+        "trait_type": "2 skin colour",
+        "value": "skin mor"
+      },
+      {
+        "trait_type": "3 mouth",
+        "value": "agiz 3 kirmizi"
+      },
+      {
+        "trait_type": "4 eyes",
+        "value": "goz lazer yesil"
+      },
+      {
+        "trait_type": "5 hairs",
+        "value": "boynuz kirmizi"
+      },
+      {
+        "trait_type": "6 wears",
+        "value": "zirh beyaz"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
